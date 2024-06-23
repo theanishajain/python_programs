@@ -10,3 +10,17 @@ def add():
     print(c)
     
 add()    
+
+
+a = 1
+b =2 
+c =3 
+print(a, end = '  ')
+print(b, end ='@')
+print(c, )
+
+for i in range(1,4):
+    print(i, end = '\n')
+    
+str = "karishma"
+print(str[-1::-1])
