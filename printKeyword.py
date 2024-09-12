@@ -1,3 +1,3 @@
 import keyword
 print(keyword.kwlist)
-# print?z
+help("keywords")
