@@ -23,4 +23,3 @@ while a:  # Repeat until the original list is empty
     a.remove(smaller)  # Remove the smallest element from the original list
 
 print(new_list)
-]
